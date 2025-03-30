@@ -1,6 +1,9 @@
 # 🚀 Aditya Meena | Blockchain & AI Enthusiast  
 
-![Banner](https://your-banner-url.com)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adimeena06/Adimeena06/main/banner.png" alt="Aditya Meena Banner" width="100%">
+</p>
+ 
 
 ## 👋 About Me  
 Hey, I'm **Aditya Meena**, a passionate **Solidity Developer** and **AI Researcher** exploring **Web3, Blockchain, and Machine Learning**.  
