@@ -7,7 +7,7 @@ Hey, I'm **Aditya Meena**, a passionate **Solidity Developer** and **AI Research
 
 - 🔗 **Building:** Blockchain-Based Organ Donation System  
 - 🌱 **Learning:** DeFi, AI Therapists, ICP Blockchain  
-- 🎯 **Goal:** To become a **100 crore entrepreneur by 2027** 🚀  
+- 🎯 **Goal:** To become a **100 crore entrepreneur by 2030** 🚀  
 - 🎤 **Fun Fact:** I share soothing voice notes on **Dil Ka Radio** 🎙️  
 
 ---
