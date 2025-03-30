@@ -12,18 +12,26 @@ Hey, I'm **Aditya Meena**, a passionate **Solidity Developer** and **AI Research
 
 ---
 
-## 🛠 Tech Stack  
-💻 **Languages:** Solidity, Java, Python, JavaScript  
-🛠️ **Frameworks:** LangChain, AutoGPT  
-🔗 **Blockchain:** Ethereum, ICP, Smart Contracts  
+## 🚀 Skills & Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats:
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adimeena06&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adimeena06&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adimeena06&layout=compact&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Adimeena06&theme=tokyonight)
 
+
+---
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Adimeena06)
 ---
 
 ## 🔗 Connect with Me  
