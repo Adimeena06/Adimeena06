@@ -1,8 +1,9 @@
 # 🚀 Aditya Meena | Blockchain & AI Enthusiast  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adimeena06/Adimeena06/main/banner.png" alt="Aditya Meena Banner" width="100%">
+  <img src="ChatGPT Image Mar 30, 2025, 11_30_17 PM.png" alt="Aditya Meena Banner" width="100%">
 </p>
+
  
 
 ## 👋 About Me  
