@@ -1,313 +1,175 @@
-
-<!-- ========================================================= -->
-<!--                  ADITYA MEENA | GITHUB                    -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,40:102A56,100:00B4D8&text=ADITYA%20MEENA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20BLOCKCHAIN%20%7C%20WEB3%20%7C%20SOFTWARE%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Aditya Meena Banner"/>
+<img src="./assets/hero.svg" width="100%" alt="Aditya Meena – Developer Command Center" />
+
+<a href="https://github.com/Adimeena06">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=00F0FF&background=050816&center=true&vCenter=true&width=700&height=56&lines=AI+%26+ML+Engineer;Blockchain+Developer;Solidity+Developer;Web3+Builder;Software+Developer;AI+Researcher" alt="Rotating titles: AI & ML Engineer, Blockchain Developer, Solidity Developer, Web3 Builder, Software Developer, AI Researcher" />
+</a>
 
 <br/>
 
-<a href="https://github.com/Adimeena06">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+with+AI;Engineering+Decentralized+Solutions;Exploring+Blockchain+%26+Web3;Turning+Ideas+Into+Real+Products" alt="Typing animation"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Adimeena06">
-  <img src="https://img.shields.io/badge/GitHub-Adimeena06-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aditya-meena-3ba22b326">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Adityameena0605@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Adimeena06&label=PROFILE+VIEWS&color=0891B2&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/Adimeena06"><img src="https://img.shields.io/badge/GITHUB-Adimeena06-0A1128?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=050816" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aditya-meena-3ba22b326"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A1128?style=for-the-badge&logo=linkedin&logoColor=2D6BFF&labelColor=050816" alt="LinkedIn" /></a>
+<a href="mailto:Adityameena0605@gmail.com"><img src="https://img.shields.io/badge/EMAIL-TRANSMIT-0A1128?style=for-the-badge&logo=gmail&logoColor=FF2E93&labelColor=050816" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=Adimeena06&label=VISITORS&color=8B5CF6&style=for-the-badge&labelColor=050816" alt="Profile visitors counter" />
 
 </div>
 
----
+<br/>
 
-## `01` — ABOUT ME
+<img src="./assets/sec-01.svg" width="100%" alt="01 System Boot" />
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adimeena06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages"/>
-
-Hey! I'm **Aditya Meena**, an AI & ML postgraduate student, Blockchain Developer and technology enthusiast passionate about building intelligent and decentralized systems.
-
-I work at the intersection of **Artificial Intelligence, Machine Learning, Blockchain and Software Engineering**, turning technical ideas into practical applications.
-
-- 🎓 Pursuing MCA in Artificial Intelligence & Machine Learning.
-- 💻 BCA in Computer Applications (AI & ML), 2023–2026.
-- 🧠 Exploring AI, Deep Learning and Computer Vision.
-- ⛓️ Developing blockchain applications and smart contracts.
-- 🌐 Exploring Web3, DeFi and decentralized infrastructure.
-- 🚀 Interested in entrepreneurship, product development and innovation.
-- 🔬 Passionate about AI research and emerging technologies.
-
-<br clear="right"/>
-
-> **My mindset:** Learn relentlessly. Build fearlessly. Create meaningful impact.
-
----
-
-## `02` — TECHNOLOGY STACK
+<div align="center">
+<img src="./assets/boot.svg" width="100%" alt="Terminal boot sequence: initializing developer profile, access granted, Aditya Meena, AI / ML / Blockchain / Web3, building the future" />
+</div>
 
 <p align="center">
-  <i>Technologies I use, explore and build with.</i>
+I build <b>intelligent systems</b> and <b>decentralized applications</b>: computer-vision pipelines, FastAPI services, React front-ends and Solidity / Motoko smart contracts.<br/>
+Currently pursuing an <b>MCA in Artificial Intelligence &amp; Machine Learning</b>, after a <b>BCA in AI &amp; ML</b> at Sharda University (2023–2026).<br/>
+My focus: turning research-grade ideas into working products at the intersection of <b>AI × Blockchain × Web3</b>.
 </p>
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,solidity,dart,mysql&theme=dark" alt="Programming Languages"/>
-</p>
-
-### AI, Machine Learning & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,fastapi,flask&theme=dark" alt="AI and Backend"/>
-</p>
-
-### Web & Application Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flutter,firebase&theme=dark" alt="Web and App Development"/>
-</p>
-
-### Blockchain & Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Developer Tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Motoko-ICP-29ABE2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Hardhat-Blockchain-F7DF1E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MetaMask-Web3-E2761B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ganache-E4A663?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Power_BI-Analytics-F2C811?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square"/>
-</p>
-
----
-
-## `03` — FEATURED PROJECTS
-
-<p align="center">
-  <i>Ideas transformed into engineering projects.</i>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧹 CleanSweep AI</h3>
-
-**AI-Powered Smart Waste Management**
-
-An intelligent waste management platform connecting citizens, AI-based waste detection and municipal operations.
-
-- YOLO-based waste detection.
-- Automated waste classification.
-- Smart municipal dispatch system.
-- Truck assignment and tracking workflow.
-- Citizen, Admin and Driver dashboards.
-
-**Tech Stack**
-
-`Python` `YOLO` `FastAPI` `React` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🫀 Organ Donation Blockchain</h3>
-
-**Decentralized Organ Donation Ecosystem**
-
-A blockchain-based platform designed to improve transparency, security and trust in organ donation workflows.
-
-- Decentralized donation records.
-- Smart contract-based workflows.
-- AI-assisted donor-recipient matching concept.
-- Built using Internet Computer Protocol.
-
-**Tech Stack**
-
-`Motoko` `ICP` `Python` `JavaScript`
 
 <br/>
+
+<img src="./assets/sec-02.svg" width="100%" alt="02 Tech Arsenal" />
+
+<div align="center">
+<img src="./assets/marquee.svg" width="100%" alt="Scrolling marquee of technologies: Python, Java, JavaScript, Solidity, Dart, SQL, TensorFlow, OpenCV, DeepFace, FastAPI, Flask, HTML, CSS, React, Node.js, Motoko, ICP, Hardhat, MetaMask, Ganache, Flutter, Firebase, Git, GitHub, VS Code, MySQL, Power BI" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3E_PROGRAMMING-050816?style=flat-square&labelColor=050816&color=00F0FF" alt="Programming" /><br/>
+<img src="https://skillicons.dev/icons?i=py,java,js,solidity,dart,mysql&theme=dark" alt="Python, Java, JavaScript, Solidity, Dart, SQL" /><br/>
+<sub><code>PYTHON · JAVA · JAVASCRIPT · SOLIDITY · DART · SQL</code></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3E_AI_%26_MACHINE_LEARNING-050816?style=flat-square&labelColor=050816&color=FF2E93" alt="AI and Machine Learning" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,fastapi,flask&theme=dark" alt="TensorFlow, OpenCV, FastAPI, Flask" />
+<img src="https://img.shields.io/badge/DeepFace-0A1128?style=flat-square" alt="DeepFace" /><br/>
+<sub><code>TENSORFLOW · OPENCV · DEEPFACE · FASTAPI · FLASK</code></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3E_WEB_DEVELOPMENT-050816?style=flat-square&labelColor=050816&color=2D6BFF" alt="Web Development" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="HTML, CSS, React, Node.js" /><br/>
+<sub><code>HTML · CSS · REACT · NODE.JS</code></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3E_BLOCKCHAIN_%26_WEB3-050816?style=flat-square&labelColor=050816&color=8B5CF6" alt="Blockchain and Web3" /><br/>
+<img src="https://skillicons.dev/icons?i=solidity,hardhat&theme=dark" alt="Solidity, Hardhat" />
+<img src="https://img.shields.io/badge/Motoko-0A1128?style=flat-square" alt="Motoko" />
+<img src="https://img.shields.io/badge/Internet_Computer-0A1128?style=flat-square&logo=internetcomputer&logoColor=8B5CF6" alt="Internet Computer (ICP)" />
+<img src="https://img.shields.io/badge/MetaMask-0A1128?style=flat-square&logo=metamask&logoColor=F6851B" alt="MetaMask" />
+<img src="https://img.shields.io/badge/Ganache-0A1128?style=flat-square" alt="Ganache" /><br/>
+<sub><code>SOLIDITY · MOTOKO · ICP · HARDHAT · METAMASK · GANACHE</code></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3E_MOBILE-050816?style=flat-square&labelColor=050816&color=39FF88" alt="Mobile Development" /><br/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=dark" alt="Flutter, Firebase" /><br/>
+<sub><code>FLUTTER · FIREBASE</code></sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/%3E_TOOLS-050816?style=flat-square&labelColor=050816&color=6B7A99" alt="Tools" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,powerbi&theme=dark" alt="Git, GitHub, VS Code, MySQL, Power BI" /><br/>
+<sub><code>GIT · GITHUB · VS CODE · MYSQL · POWER BI</code></sub>
+</div>
+
+<br/>
+
+<img src="./assets/sec-03.svg" width="100%" alt="03 Missions – featured projects" />
+
+<div align="center">
+
+<img src="./assets/card-1.svg" width="100%" alt="CleanSweep AI – AI-powered smart waste management platform with waste detection and classification, FastAPI backend, React frontend and intelligent municipal dispatch" />
+
+<br/><br/>
 
 <a href="https://github.com/Adimeena06/organ-donation-blockchain">
-  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github"/>
+  <img src="./assets/card-2.svg" width="100%" alt="Organ Donation Blockchain – Internet Computer Protocol and Motoko platform with an AI-based donor-recipient matching concept" />
 </a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 AI Therapist</h3>
-
-**Facial Emotion Recognition System**
-
-An AI research project exploring facial emotion recognition through computer vision and deep learning.
-
-- Facial emotion detection.
-- Deep learning-based classification.
-- FER2013 dataset experimentation.
-- API backend and session reporting.
-- React-based user interface.
-
-**Tech Stack**
-
-`Python` `TensorFlow` `Keras` `OpenCV` `DeepFace` `FastAPI` `React`
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⛓️ Smart Contract Development</h3>
-
-**Blockchain & Security Experiments**
-
-A collection of hands-on experiments exploring decentralized applications, smart contracts and blockchain security.
-
-- Solidity smart contract development.
-- Ethereum ecosystem experimentation.
-- MetaMask integration.
-- Ganache development environment.
-- Blockchain transaction workflows.
-
-**Tech Stack**
-
-`Solidity` `Ethereum` `Hardhat` `MetaMask` `Ganache`
-
-<a href="https://github.com/Adimeena06">
-  <img src="https://img.shields.io/badge/EXPLORE_GITHUB-0D1117?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Adimeena06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adimeena06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=Adimeena06&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=00B4D8&currStreakLabel=38BDF8" alt="GitHub Contribution Streak"/>
+<img src="./assets/card-3.svg" width="100%" alt="AI Therapist – facial emotion recognition prototype using FER2013, Python, OpenCV, DeepFace and TensorFlow/Keras with FastAPI and React session reporting" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Adimeena06&bg_color=0D1117&color=38BDF8&line=0891B2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+<a href="https://github.com/Adimeena06/REMIX">
+  <img src="./assets/card-4.svg" width="100%" alt="Smart Contract Development – Solidity experiments with Hardhat, MetaMask and Ganache" />
+</a>
 
 </div>
 
----
+```bash
+$ git clone https://github.com/Adimeena06/organ-donation-blockchain.git
+$ git clone https://github.com/Adimeena06/REMIX.git
+```
 
-## `05` — CURRENTLY EXPLORING
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Artificial Intelligence
-
-- Computer Vision
-- Deep Learning
-- Efficient AI
-- Small Language Models
-- AI-powered applications
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain & Web3
-
-- Smart Contract Engineering
-- Decentralized Applications
-- DeFi Architecture
-- ICP Ecosystem
-- Blockchain Security
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- Data Structures & Algorithms
-- Full-Stack Development
-- Backend Architecture
-- Database Systems
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Innovation
-
-- Product Development
-- Startup Ecosystem
-- Open Source
-- Research & Experimentation
-
-</td>
-</tr>
-</table>
-
----
-
-## `06` — BEYOND THE CODE
-
-A little more about the person behind the projects.
-
-- 🎤 I enjoy creative expression and share soothing voice notes through **Dil Ka Radio**.
-- 🎯 I believe in building things that solve real problems.
-- 🏆 State-level shooting player.
-- 🤝 Interested in collaborating with developers, researchers and entrepreneurs.
-- 🌱 Always learning something new.
-
----
-
-## `07` — LET'S CONNECT
+<img src="./assets/sec-04.svg" width="100%" alt="04 Analytics Center – live GitHub telemetry" />
 
 <div align="center">
 
-### Have an idea? Let's build something extraordinary.
-
-I'm open to collaborations, AI and Blockchain projects, research discussions, open-source contributions and exciting opportunities.
+<a href="https://github.com/Adimeena06">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Adimeena06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=00F0FF&icon_color=8B5CF6&text_color=C9D1D9&ring_color=FF2E93&include_all_commits=true&count_private=true" alt="GitHub stats: stars, commits, pull requests, issues, contributions" />
+</a>
+<a href="https://github.com/Adimeena06?tab=repositories">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adimeena06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A1128&title_color=00F0FF&text_color=C9D1D9" alt="Most used languages" />
+</a>
 
 <br/>
 
-<a href="https://github.com/Adimeena06">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aditya-meena-3ba22b326">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:Adityameena0605@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Adimeena06&theme=tokyonight&hide_border=true&background=0A1128&ring=00F0FF&fire=FF2E93&currStreakLabel=00F0FF&sideLabels=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="GitHub contribution streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adimeena06&bg_color=050816&color=00F0FF&line=8B5CF6&point=FF2E93&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity%20Matrix" width="100%" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Adimeena06&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub trophies" />
 
 <br/><br/>
 
-**"The future belongs to those who build it."**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adimeena06/Adimeena06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adimeena06/Adimeena06/output/github-snake.svg" />
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/Adimeena06/Adimeena06/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:102A56,100:050816&height=120&section=footer" width="100%" alt="Footer banner"/>
+<img src="./assets/sec-05.svg" width="100%" alt="05 Neural Map – technology orbit" />
 
+<div align="center">
+<img src="./assets/orbit.svg" width="100%" alt="Animated technology orbit: Python, Solidity, FastAPI, React, TensorFlow, Hardhat, OpenCV, MetaMask, Motoko, ICP, Flutter, Firebase and DeepFace orbiting Aditya Meena" />
+</div>
+
+<br/>
+
+<img src="./assets/sec-06.svg" width="100%" alt="06 Open Channels – collaborate, build, research" />
+
+<p align="center">
+Open to <b>AI &amp; Blockchain projects</b>, <b>research collaboration</b>, <b>open-source contributions</b> and serious opportunities.<br/>
+Have a problem worth solving? Open a channel.
+</p>
+
+<div align="center">
+<a href="https://github.com/Adimeena06"><img src="https://img.shields.io/badge/GITHUB-Adimeena06-0A1128?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=050816" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/aditya-meena-3ba22b326"><img src="https://img.shields.io/badge/LINKEDIN-aditya--meena-0A1128?style=for-the-badge&logo=linkedin&logoColor=2D6BFF&labelColor=050816" alt="LinkedIn" /></a>
+<a href="mailto:Adityameena0605@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Adityameena0605@gmail.com-0A1128?style=for-the-badge&logo=gmail&logoColor=FF2E93&labelColor=050816" alt="Email" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/footer.svg" width="100%" alt="End of transmission. The future isn't waiting. It's being compiled." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B5CF6,100:FF2E93&height=110&section=footer&animation=twinkling" width="100%" alt="" />
 </div>
